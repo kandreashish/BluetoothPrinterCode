@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bluetooth Application</string>
+    <string name="title_select_device">select device</string>
+    <string name="title_settings_activity">settings</string>
+
+    <!--  BluetoothViewer -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+
+    <string name="btstatus_connecting_to_fmt">connecting to: %s</string>
+    <string name="btstatus_connected_to_fmt">connected to: %s</string>
+    <string name="btstatus_not_connected">not connected</string>
+</resources>
